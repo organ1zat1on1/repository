@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 Име = Свилена
 Години = 16
 email = svilena@gmail.com
+=======
+<<<<<<< HEAD
+Ich bin Innan Turgaev
+=======
+Име = Ива
+Години = 16
+email = ivastoyanova@gmail.com
+>>>>>>> 6a2ad03cbf8bd0808f78dbbc4546cbe58a092c52
+>>>>>>> 03c45c8e8f6fddad80a60aa072aa2e74b30b6aa2
